@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jstl">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jstl/javaee-doc-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl/jstl-impl.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jstl/jstl-api.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

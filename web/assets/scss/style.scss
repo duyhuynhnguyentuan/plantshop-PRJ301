@@ -1,0 +1,23 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/style.scss to edit this template
+*/
+/*
+    Created on : Mar 3, 2023, 7:24:58 PM
+    Author     : DUY HUYNH
+*/
+
+
+$background_color : rgb(151, 247, 41);
+
+.off_canvars_overlay{
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    z-index: 99;
+    opacity: 0;
+    visibility: hidden;
+    cursor: crosshair;
+    background-color: $background_color;
+    top:0;
+}
