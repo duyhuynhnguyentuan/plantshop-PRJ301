@@ -5,7 +5,6 @@ Admins screen can be used to assign role for user. See bill detail and many more
 ![image](https://github.com/duyhuynhnguyentuan/plantshop-PRJ301/assets/124075895/e01c2961-6476-44a2-b391-a45a9df72f7e)
 ![image](https://github.com/duyhuynhnguyentuan/plantshop-PRJ301/assets/124075895/0348ef3c-9e08-4ab6-aefb-bc6ddbf6c05a)
 ![image](https://github.com/duyhuynhnguyentuan/plantshop-PRJ301/assets/124075895/56560302-8c2f-4269-9de7-808fa792a0c7)
-![image](https://github.com/duyhuynhnguyentuan/plantshop-PRJ301/assets/124075895/a47787d5-0e41-4004-a10a-934528073679)
 ![image](https://github.com/duyhuynhnguyentuan/plantshop-PRJ301/assets/124075895/a3cd7d87-6c4a-4194-bdaa-cc56c20c73ef)
 ![image](https://github.com/duyhuynhnguyentuan/plantshop-PRJ301/assets/124075895/2fa5c0fc-30a6-495d-b103-f0b53fd4956e)
 ![image](https://github.com/duyhuynhnguyentuan/plantshop-PRJ301/assets/124075895/ac392875-005c-4197-993c-a127d1b61ab8)
